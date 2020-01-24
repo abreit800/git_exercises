@@ -2,7 +2,7 @@
 
 ## On the web
 * Log into your GitHub account
-* Go to "github.com/meireles/structred_project"
+* Go to [github.com/meireles/structred_project](github.com/meireles/structred_project)
 * Click "Fork" on the top right corner
 
 ## Then, on your GitHub Desktop app
