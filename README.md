@@ -2,12 +2,12 @@
 
 ## On the web
 * Log into your GitHub account
-* Go to [github.com/meireles/structred_project](github.com/meireles/structred_project)
+* Go to [github.com/meireles/structured_project](github.com/meireles/structured_project)
 * Click "Fork" on the top right corner
 
 ## Then, on your GitHub Desktop app
 * Go to the File menu and select to "Clone Repository" 
-* Find "structred_project" and select it
+* Find "structured_project" and select it
 * Choose where the repository will be downloaded to on your computer
 * Hit clone
 
